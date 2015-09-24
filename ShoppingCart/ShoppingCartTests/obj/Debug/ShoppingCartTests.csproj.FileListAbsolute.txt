@@ -1,0 +1,7 @@
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCartTests.dll
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCartTests.pdb
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCart.exe
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\bin\Debug\ShoppingCart.pdb
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.csprojResolveAssemblyReference.cache
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.dll
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCartTests\obj\Debug\ShoppingCartTests.pdb

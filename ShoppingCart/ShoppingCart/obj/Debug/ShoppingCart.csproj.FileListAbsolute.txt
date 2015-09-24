@@ -1,2 +1,7 @@
 C:\Users\allen\Desktop\TDD day2\homeWork\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
 C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\allen\Desktop\TDD day2\day2-homeWork\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
