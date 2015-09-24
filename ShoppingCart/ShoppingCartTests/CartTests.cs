@@ -39,16 +39,18 @@ namespace ShoppingCart.Tests
         }
 
         [TestMethod()]
-        public void 第1集買了_1_本_第2集買了_1_本_第3集買了_1_本_價格應為_320元()
+        public void 第1集買了_1_本_第2集買了_1_本_第3集買了_1_本_價格應為_270元()
         {
             //arrange
             var cart = new Cart();
             cart.AddBook(new Book() { bookName = "哈利波特第1集" });
             cart.AddBook(new Book() { bookName = "哈利波特第2集" });
             cart.AddBook(new Book() { bookName = "哈利波特第3集" });
-            var expected = 320;
+            var expected = 270;
             //act
             var actual = cart.CalPrice();
+
+            Console.WriteLine("ClassCleanup");
             //assert
             Assert.AreEqual(expected, actual);
         }
